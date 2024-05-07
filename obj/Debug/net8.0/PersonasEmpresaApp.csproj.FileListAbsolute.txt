@@ -1,0 +1,14 @@
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\bin\Debug\net8.0\PersonasEmpresaApp.exe
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\bin\Debug\net8.0\PersonasEmpresaApp.deps.json
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\bin\Debug\net8.0\PersonasEmpresaApp.runtimeconfig.json
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\bin\Debug\net8.0\PersonasEmpresaApp.dll
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\bin\Debug\net8.0\PersonasEmpresaApp.pdb
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\PersonasEmpresaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\PersonasEmpresaApp.AssemblyInfoInputs.cache
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\PersonasEmpresaApp.AssemblyInfo.cs
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\PersonasEmpresaApp.csproj.CoreCompileInputs.cache
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\PersonasEmpresaApp.dll
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\refint\PersonasEmpresaApp.dll
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\PersonasEmpresaApp.pdb
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\PersonasEmpresaApp.genruntimeconfig.cache
+C:\Users\51989\source\repos\PersonasEmpresaApp\PersonasEmpresaApp\obj\Debug\net8.0\ref\PersonasEmpresaApp.dll
